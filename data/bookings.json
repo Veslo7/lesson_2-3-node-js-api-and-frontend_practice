@@ -10,6 +10,13 @@
     "id": "b2",
     "name": "Иван",
     "seats": 1,
+    "status": "confirmed",
+    "source": "web"
+  },
+  {
+    "id": "abe15b8a-308e-4bfc-a89c-ef42f98f7518",
+    "name": "Мария",
+    "seats": 3,
     "status": "new",
     "source": "web"
   }
